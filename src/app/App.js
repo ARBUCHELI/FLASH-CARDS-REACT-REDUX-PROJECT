@@ -13,10 +13,12 @@ import Topic from "../features/topics/Topic";
 import Quiz from "../features/quizzes/Quiz";
 import Quizzes from "../features/quizzes/Quizzes";
 import ROUTES from "./routes";
+import image from './fire-alphabet-letter-h.jpg';
 
 export default function App() {
   return (
     <Router>
+      <img className='profile-image' alt='icon' src={image}/>
       <nav>
         <ul>
           <li>
