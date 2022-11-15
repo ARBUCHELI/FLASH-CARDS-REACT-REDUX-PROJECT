@@ -17,7 +17,7 @@ export default function Topic() {
           <Card key={id} id={id} />
         ))}
       </ul>
-      <Link to={ROUTES.newQuizRoute()} className="button center">
+      <Link to={ROUTES.newQuizRoute()} className="button center create-new-quizz-button">
         Create a New Quiz
       </Link>
     </section>
