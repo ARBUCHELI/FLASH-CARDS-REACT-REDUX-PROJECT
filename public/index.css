@@ -48,7 +48,11 @@ h1 {
   color: #ffcc5c;
   text-align: center;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
+  padding: 1em;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  background-color: black;
 }
 
 h2 {
@@ -250,4 +254,5 @@ footer {
   border-radius: 5px;
   width: 100px;
   height: 100px;
+  margin-bottom: 0.5em;
 }
