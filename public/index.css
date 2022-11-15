@@ -8,6 +8,7 @@ body {
   margin: 0;
   width: 80%;
   text-align: center;
+  background-color: #585858;
 }
 
 nav {
@@ -42,7 +43,8 @@ nav a.active {
 h1 {
   font-weight: bold;
   font-size: 20px;
-  color: #000000;
+  color: white;
+  text-align: center;
   margin: 0;
 }
 
