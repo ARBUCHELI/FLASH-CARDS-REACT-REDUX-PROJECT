@@ -245,3 +245,9 @@ footer {
   text-align: center;
   margin-top: 1em;
 }
+
+.header-image {
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+}
