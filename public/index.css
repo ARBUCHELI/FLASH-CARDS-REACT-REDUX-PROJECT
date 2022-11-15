@@ -240,9 +240,9 @@ li:not(:last-child) {
 
 footer {
   font-weight: bold;
-  font-size: 44px;
-  color: #ffcc5c;
+  font-size: 24px;
+  color: #87bdd8;
   text-align: center;
   margin-top: 1em;
-  margin-bottom: 1em;
+  margin-bottom: 10em;
 }
