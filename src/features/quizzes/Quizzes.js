@@ -7,7 +7,7 @@ export default function Quizzes() {
   const quizzes = useSelector(selectQuizzes);
   return (
     <section className="center">
-      <h1>Quizzes</h1>
+      <h1 className="created-quizzes">Quizzes</h1>
       <ul className="quizzes-list">
         {Object.values(quizzes).map((quiz) => (
           <Link key={quiz.id} to={ROUTES.quizRoute(quiz.id)}>
