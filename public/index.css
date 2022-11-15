@@ -12,9 +12,10 @@ body {
 }
 
 nav {
-  background: #b736ff;
+  background: #bc5a45;
   display: flex;
   padding: 24px 36px;
+  border-radius: 5px;
 }
 
 nav ul {
@@ -32,7 +33,7 @@ nav ul li {
 
 nav a {
   color: white;
-  font-size: 16px;
+  font-size: 24px;
   text-decoration: none;
 }
 
