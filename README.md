@@ -4,7 +4,7 @@ Run `npm start` in the project root and the app will be available on port 3000.
 
 # State
 
-The app's state is totally normalized, with slices for topics, quizzes, and cards.
+The app's state is totally normalized, with slices for topics, quizzes, and cards.  Following the Ducks pattern.
 
 # Routes
 
@@ -24,3 +24,5 @@ The app's state is totally normalized, with slices for topics, quizzes, and card
 # Questions
 
 Is this appropriately scoped? Does it have too many features? Too few?
+
+
